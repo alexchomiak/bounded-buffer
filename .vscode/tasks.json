@@ -1,0 +1,10 @@
+{
+    "tasks": [
+        {
+            "type": "process",
+            "label": "Build with makefile",
+            "command": "/usr/bin/make"
+        }
+    ],
+    "version": "2.0.0"
+}
